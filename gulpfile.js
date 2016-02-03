@@ -1,4 +1,5 @@
 var gulp         = require('gulp'),
+    util         = require('gulp-util'),
     uglify       = require('gulp-uglify'),
     jshint       = require('gulp-jshint'),
     rename       = require('gulp-rename'),
